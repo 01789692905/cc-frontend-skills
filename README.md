@@ -28,6 +28,8 @@ A Claude Code plugin for creating distinctive, production-grade frontend UIs tha
 
 ## Installation
 
+Execute following `/plugin` slash commands in Claude Code.
+
 ```bash
 # Add marketplace
 /plugin marketplace add oikon48/cc-frontend-skills
