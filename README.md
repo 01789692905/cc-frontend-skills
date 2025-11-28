@@ -1,6 +1,9 @@
 # Frontend Skills Plugin
 
-NOTE: **This Skills is for demonstrating Claude SKills with Claude Code.**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code Plugin](https://img.shields.io/badge/Claude%20Code-Plugin-blue)](https://github.com/oikon48/cc-frontend-skills)
+
+> **Note:** This project is for demonstrating Claude Skills with Claude Code.
 
 A Claude Code plugin for creating distinctive, production-grade frontend UIs that avoid generic "AI slop" aesthetics.
 
@@ -13,8 +16,8 @@ A Claude Code plugin for creating distinctive, production-grade frontend UIs tha
 
 ## Demo
 
-- Left: **Skills**
-- Right: No Skills
+- Left: **With Skills**
+- Right: Without Skills
 
 **Prompt:**
 
@@ -60,6 +63,14 @@ Design a dashboard for a music streaming app
 - [themes.md](skills/frontend-design-system/themes.md) - Theme implementations
 - [components.md](skills/frontend-design-system/components.md) - Component patterns
 
+## Contributing
+
+Issues and pull requests are welcome! Feel free to contribute to this project.
+
+## Author
+
+[@oikon48](https://github.com/oikon48)
+
 ## License
 
-MIT
+[MIT](LICENSE)
