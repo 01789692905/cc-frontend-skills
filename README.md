@@ -44,6 +44,8 @@ Simply make frontend-related requests and the design skill will be applied autom
 Build me a flight lookup nextjs web app where the user can put in a flight number and the app gives you the start time, end time, time zones, start location, and end location of the flight. For now, use a mock API that returns a list of matching flights. Display the search results under the form input. use @frontend-design-system-implementor , ultrathink
 ```
 
+This prompt is taken from the demo of Google Antigravity ([Youtube Link](https://www.youtube.com/watch?v=nTOVIGsqCuY))
+
 ## Theme Examples
 
 1. **Nordic Minimal** - Scandinavian warmth and serenity
